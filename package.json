@@ -34,7 +34,6 @@
     },
     "homepage": "https://github.com/supabase/node-fetch",
     "dependencies": {
-        "whatwg-url": "^5.0.0"
     },
     "devDependencies": {
         "@ungap/url-search-params": "^0.1.2",
