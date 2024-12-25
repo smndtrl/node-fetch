@@ -1,7 +1,7 @@
 {
     "name": "@supabase/node-fetch",
     "publishConfig": { "access": "public" },
-    "version": "2.6.7",
+    "version": "2.6.8",
     "description": "A light-weight module that brings window.fetch to node.js",
     "main": "lib/index.js",
     "browser": "./browser.js",
@@ -12,7 +12,7 @@
         "browser.js"
     ],
     "engines": {
-        "node": "4.x || >=6.0.0"
+        "node": ">=18.0.0"
     },
     "scripts": {
         "build": "cross-env BABEL_ENV=rollup rollup -c",
